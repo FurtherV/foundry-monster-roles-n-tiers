@@ -6,7 +6,7 @@ export const MODULE_ID = "monster-roles-n-tiers";
 /**
  * Human readable module name
  */
-export const MODULE_NAME = "Monster Roles'n Tiers";
+export const MODULE_NAME = "Monster Roles & Tiers";
 
 /**
  * Module id used for localization files.
