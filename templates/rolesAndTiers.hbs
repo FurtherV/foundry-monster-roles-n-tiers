@@ -1,0 +1,19 @@
+{{!-- Tier Label and Drop-Down --}}
+<div class="form-group">
+    <label>{{localize "MONSTER-ROLES-N-TIERS.sheet.tier"}}</label>
+    <select id="tiers-select" name="flags.{{moduleId}}.tier">
+        {{#each tiers}}
+            <option value="{{this}}">{{this}}</option>
+        {{/each}}
+    </select>
+</div>
+
+{{!-- Role Label and Drop-Down --}}
+<div class="form-group">
+    <label>{{localize "MONSTER-ROLES-N-TIERS.sheet.role"}}</label>
+    <select id="roles-select" name="flags.{{moduleId}}.role">
+        {{#each roles}}
+            <option value="{{this}}">{{this}}</option>
+        {{/each}}
+    </select>
+</div>

@@ -1,0 +1,46 @@
+{
+    "id": "monster-roles-n-tiers",
+    "title": "Monster Roles'n Tiers",
+    "description": "Allows you to define monster roles and tiers and note these in their character sheet.",
+    "version": "0.1",
+    "library": "false",
+    "manifestPlusVersion": "1.2.0",
+    "compatibility": {
+        "minimum": 11,
+        "verified": 11,
+        "maximum": 11
+    },
+    "authors": [
+        {
+            "name": "FurtherV",
+            "url": "https://github.com/FurtherV",
+            "discord": "FurtherV#5068"
+        }
+    ],
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "2.2.1"
+                }
+            }
+        ],
+        "requires": []
+    },
+    "esmodules": ["setup.mjs"],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "languages/en.json"
+        }
+    ],
+    "url": "replaced by workflow",
+    "manifest": "replaced by workflow",
+    "download": "replaced by workflow",
+    "changelog": "replaced by workflow",
+    "readme": "replaced by workflow",
+    "license": "LICENSE"
+}

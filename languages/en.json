@@ -1,0 +1,18 @@
+{
+    "MONSTER-ROLES-N-TIERS": {
+        "sheet": {
+            "tier": "Monster Tier",
+            "role": "Monster Role"
+        },
+        "settings": {
+            "monster-roles": {
+                "Name": "Available Monster Roles",
+                "Hint": "Available monster roles. Split with Semi-Colon."
+            },
+            "monster-tiers": {
+                "Name": "Available Monster Tiers",
+                "Hint": "Available monster tiers. Split with Semi-Colon."
+            }
+        }
+    }
+}
